@@ -1,0 +1,41 @@
+cd "s:\College stuffs\SEMESTER 2\krishimitra"
+mkdir backend
+cd backend
+
+## Database Choice
+
+For your user account storage, I've used **SQLite** which is perfect for development because:
+1. No separate server needed
+2. Single file database
+3. Easy to backup and migrate
+4. Good for small to medium applications
+
+For production, you could switch to:
+- **PostgreSQL** (recommended for production)
+- **MySQL**
+- **MongoDB** (if you prefer NoSQL)
+
+## AI Integration Points
+
+In the `<mcsymbol name="process_file" filename="app.py" path="s:\College stuffs\SEMESTER 2\krishimitra\backend\app.py" startline="124" type="function"></mcsymbol>` function, you can integrate with AI APIs like:
+
+1. **OpenAI GPT API** - For text analysis
+2. **Google Gemini API** - For multimodal analysis
+3. **Custom ML models** - For specific agricultural tasks
+
+## How to Run the Backend
+```bash
+cd "s:\College stuffs\SEMESTER 2\krishimitra\backend"
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment (Windows)
+venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the backend
+python app.py
+```

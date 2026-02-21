@@ -1,0 +1,249 @@
+{
+  "location": {
+    "place": "Manaus, Amazonas, Brazil",
+    "latitude": -3.119,
+    "longitude": -60.021
+  },
+  "data": [
+    {
+      "day": 1,
+      "time": "08:00",
+      "soil_moisture": 78,
+      "soil_pH": 5.6,
+      "nitrogen_mg_per_kg": 42,
+      "rainfall_mm": 18
+    },
+    {
+      "day": 2,
+      "time": "08:00",
+      "soil_moisture": 81,
+      "soil_pH": 5.5,
+      "nitrogen_mg_per_kg": 44,
+      "rainfall_mm": 22
+    },
+    {
+      "day": 3,
+      "time": "08:00",
+      "soil_moisture": 79,
+      "soil_pH": 5.7,
+      "nitrogen_mg_per_kg": 41,
+      "rainfall_mm": 15
+    },
+    {
+      "day": 4,
+      "time": "08:00",
+      "soil_moisture": 83,
+      "soil_pH": 5.4,
+      "nitrogen_mg_per_kg": 45,
+      "rainfall_mm": 25
+    },
+    {
+      "day": 5,
+      "time": "08:00",
+      "soil_moisture": 85,
+      "soil_pH": 5.3,
+      "nitrogen_mg_per_kg": 46,
+      "rainfall_mm": 30
+    },
+    {
+      "day": 6,
+      "time": "08:00",
+      "soil_moisture": 80,
+      "soil_pH": 5.6,
+      "nitrogen_mg_per_kg": 43,
+      "rainfall_mm": 17
+    },
+    {
+      "day": 7,
+      "time": "08:00",
+      "soil_moisture": 77,
+      "soil_pH": 5.8,
+      "nitrogen_mg_per_kg": 40,
+      "rainfall_mm": 12
+    },
+    {
+      "day": 8,
+      "time": "08:00",
+      "soil_moisture": 82,
+      "soil_pH": 5.5,
+      "nitrogen_mg_per_kg": 44,
+      "rainfall_mm": 20
+    },
+    {
+      "day": 9,
+      "time": "08:00",
+      "soil_moisture": 84,
+      "soil_pH": 5.4,
+      "nitrogen_mg_per_kg": 47,
+      "rainfall_mm": 27
+    },
+    {
+      "day": 10,
+      "time": "08:00",
+      "soil_moisture": 86,
+      "soil_pH": 5.3,
+      "nitrogen_mg_per_kg": 48,
+      "rainfall_mm": 33
+    },
+    {
+      "day": 11,
+      "time": "08:00",
+      "soil_moisture": 79,
+      "soil_pH": 5.7,
+      "nitrogen_mg_per_kg": 42,
+      "rainfall_mm": 16
+    },
+    {
+      "day": 12,
+      "time": "08:00",
+      "soil_moisture": 81,
+      "soil_pH": 5.6,
+      "nitrogen_mg_per_kg": 43,
+      "rainfall_mm": 19
+    },
+    {
+      "day": 13,
+      "time": "08:00",
+      "soil_moisture": 83,
+      "soil_pH": 5.5,
+      "nitrogen_mg_per_kg": 45,
+      "rainfall_mm": 24
+    },
+    {
+      "day": 14,
+      "time": "08:00",
+      "soil_moisture": 88,
+      "soil_pH": 5.2,
+      "nitrogen_mg_per_kg": 49,
+      "rainfall_mm": 35
+    },
+    {
+      "day": 15,
+      "time": "08:00",
+      "soil_moisture": 90,
+      "soil_pH": 5.1,
+      "nitrogen_mg_per_kg": 50,
+      "rainfall_mm": 40
+    },
+    {
+      "day": 16,
+      "time": "08:00",
+      "soil_moisture": 87,
+      "soil_pH": 5.3,
+      "nitrogen_mg_per_kg": 48,
+      "rainfall_mm": 28
+    },
+    {
+      "day": 17,
+      "time": "08:00",
+      "soil_moisture": 84,
+      "soil_pH": 5.4,
+      "nitrogen_mg_per_kg": 46,
+      "rainfall_mm": 22
+    },
+    {
+      "day": 18,
+      "time": "08:00",
+      "soil_moisture": 82,
+      "soil_pH": 5.5,
+      "nitrogen_mg_per_kg": 44,
+      "rainfall_mm": 18
+    },
+    {
+      "day": 19,
+      "time": "08:00",
+      "soil_moisture": 85,
+      "soil_pH": 5.4,
+      "nitrogen_mg_per_kg": 47,
+      "rainfall_mm": 26
+    },
+    {
+      "day": 20,
+      "time": "08:00",
+      "soil_moisture": 89,
+      "soil_pH": 5.2,
+      "nitrogen_mg_per_kg": 49,
+      "rainfall_mm": 34
+    },
+    {
+      "day": 21,
+      "time": "08:00",
+      "soil_moisture": 91,
+      "soil_pH": 5.1,
+      "nitrogen_mg_per_kg": 51,
+      "rainfall_mm": 38
+    },
+    {
+      "day": 22,
+      "time": "08:00",
+      "soil_moisture": 88,
+      "soil_pH": 5.3,
+      "nitrogen_mg_per_kg": 48,
+      "rainfall_mm": 29
+    },
+    {
+      "day": 23,
+      "time": "08:00",
+      "soil_moisture": 86,
+      "soil_pH": 5.4,
+      "nitrogen_mg_per_kg": 47,
+      "rainfall_mm": 23
+    },
+    {
+      "day": 24,
+      "time": "08:00",
+      "soil_moisture": 83,
+      "soil_pH": 5.5,
+      "nitrogen_mg_per_kg": 45,
+      "rainfall_mm": 19
+    },
+    {
+      "day": 25,
+      "time": "08:00",
+      "soil_moisture": 81,
+      "soil_pH": 5.6,
+      "nitrogen_mg_per_kg": 44,
+      "rainfall_mm": 21
+    },
+    {
+      "day": 26,
+      "time": "08:00",
+      "soil_moisture": 84,
+      "soil_pH": 5.4,
+      "nitrogen_mg_per_kg": 46,
+      "rainfall_mm": 25
+    },
+    {
+      "day": 27,
+      "time": "08:00",
+      "soil_moisture": 87,
+      "soil_pH": 5.3,
+      "nitrogen_mg_per_kg": 48,
+      "rainfall_mm": 31
+    },
+    {
+      "day": 28,
+      "time": "08:00",
+      "soil_moisture": 89,
+      "soil_pH": 5.2,
+      "nitrogen_mg_per_kg": 49,
+      "rainfall_mm": 36
+    },
+    {
+      "day": 29,
+      "time": "08:00",
+      "soil_moisture": 92,
+      "soil_pH": 5.1,
+      "nitrogen_mg_per_kg": 52,
+      "rainfall_mm": 42
+    },
+    {
+      "day": 30,
+      "time": "08:00",
+      "soil_moisture": 90,
+      "soil_pH": 5.2,
+      "nitrogen_mg_per_kg": 50,
+      "rainfall_mm": 37
+    }
+  ]
+}

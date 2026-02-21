@@ -1,0 +1,250 @@
+[
+    {
+        "status": "Healthy",
+        "ph_level": 6.5,
+        "moisture": 54.02,
+        "nitrogen": 37,
+        "timestamp": "2026-02-04 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.4,
+        "moisture": 52.12,
+        "nitrogen": 21,
+        "timestamp": "2026-01-21 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.43,
+        "moisture": 53.54,
+        "nitrogen": 43,
+        "timestamp": "2026-01-28 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.54,
+        "moisture": 52.71,
+        "nitrogen": 38,
+        "timestamp": "2026-02-08 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.36,
+        "moisture": 57.96,
+        "nitrogen": 33,
+        "timestamp": "2026-01-29 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.38,
+        "moisture": 55.85,
+        "nitrogen": 42,
+        "timestamp": "2026-01-31 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.33,
+        "moisture": 49.79,
+        "nitrogen": 50,
+        "timestamp": "2026-01-24 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.53,
+        "moisture": 51.23,
+        "nitrogen": 28,
+        "timestamp": "2026-01-19 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.5,
+        "moisture": 47.25,
+        "nitrogen": 36,
+        "timestamp": "2026-01-20 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.56,
+        "moisture": 56.43,
+        "nitrogen": 38,
+        "timestamp": "2026-02-06 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.6,
+        "moisture": 47.98,
+        "nitrogen": 36,
+        "timestamp": "2026-02-10 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.57,
+        "moisture": 52.54,
+        "nitrogen": 40,
+        "timestamp": "2026-02-18 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.54,
+        "moisture": 52.31,
+        "nitrogen": 29,
+        "timestamp": "2026-02-09 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.67,
+        "moisture": 52.04,
+        "nitrogen": 32,
+        "timestamp": "2026-02-17 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.41,
+        "moisture": 47.08,
+        "nitrogen": 22,
+        "timestamp": "2026-01-23 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.69,
+        "moisture": 45.82,
+        "nitrogen": 50,
+        "timestamp": "2026-02-11 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.33,
+        "moisture": 52.99,
+        "nitrogen": 30,
+        "timestamp": "2026-01-27 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.41,
+        "moisture": 49.67,
+        "nitrogen": 25,
+        "timestamp": "2026-01-26 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.34,
+        "moisture": 59.55,
+        "nitrogen": 24,
+        "timestamp": "2026-01-30 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.58,
+        "moisture": 52.95,
+        "nitrogen": 40,
+        "timestamp": "2026-02-05 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.56,
+        "moisture": 52.29,
+        "nitrogen": 43,
+        "timestamp": "2026-02-15 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.54,
+        "moisture": 54.25,
+        "nitrogen": 50,
+        "timestamp": "2026-02-07 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.37,
+        "moisture": 46.92,
+        "nitrogen": 24,
+        "timestamp": "2026-01-25 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.45,
+        "moisture": 51.02,
+        "nitrogen": 35,
+        "timestamp": "2026-02-01 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.48,
+        "moisture": 55.05,
+        "nitrogen": 45,
+        "timestamp": "2026-02-14 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.64,
+        "moisture": 55.35,
+        "nitrogen": 20,
+        "timestamp": "2026-02-16 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.37,
+        "moisture": 47.75,
+        "nitrogen": 24,
+        "timestamp": "2026-01-22 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.54,
+        "moisture": 52.32,
+        "nitrogen": 40,
+        "timestamp": "2026-02-13 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.42,
+        "moisture": 49.35,
+        "nitrogen": 41,
+        "timestamp": "2026-02-02 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.63,
+        "moisture": 47.64,
+        "nitrogen": 22,
+        "timestamp": "2026-02-12 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    },
+    {
+        "status": "Healthy",
+        "ph_level": 6.44,
+        "moisture": 54.17,
+        "nitrogen": 38,
+        "timestamp": "2026-02-03 23:49:37.214325+00:00",
+        "farmer_id": "FARMER_001"
+    }
+]
